@@ -13,3 +13,9 @@ Das Verständnis der Verteilung und Intensität von Cyberbedrohungen ist entsche
 - **Identifikation aktiver Bedrohungsgruppen:** Heben hervor, welche Bedrohungsakteure in der Region am aktivsten sind, und bieten Einblicke in ihre Taktiken und potenziellen Ziele.
     
 - **Verbesserung der Lageerfassung:** Unterstützen Unternehmen und Cybersicherheitsexperten dabei, die aktuelle Bedrohungslage zu verstehen und ermöglichen eine bessere Risikomanagement- und Reaktionsstrategie.
+
+### Heatmaps
+
+[Automotive Industrie](https://github.com/GeigerLaszlo/Cyber-Security-Heatmaps-Akteure-in-der-DACH-Region-2024/blob/main/Automotive%20Industry/Automotive%20Industry%20im%20DACH.md)
+
+[Maschinen- und Anlagenbau](https://github.com/GeigerLaszlo/Cyber-Security-Heatmaps-Akteure-in-der-DACH-Region-2024/blob/main/Maschinen-%20und%20Anlagenbau/Maschinen-%20und%20Anlagenbau.md)
