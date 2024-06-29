@@ -16,6 +16,6 @@ Das Verständnis der Verteilung und Intensität von Cyberbedrohungen ist entsche
 
 ### Heatmaps
 
-[Automotive Industrie](https://github.com/GeigerLaszlo/Cyber-Security-Heatmaps-Akteure-in-der-DACH-Region-2024/blob/main/Automotive%20Industry/Automotive%20Industry%20im%20DACH.md)
+[Automotiveindustrie](https://github.com/GeigerLaszlo/Cyber-Security-Heatmaps-Akteure-in-der-DACH-Region-2024/blob/main/Automotive%20Industry/Automotive%20Industry%20im%20DACH.md)
 
 [Maschinen- und Anlagenbau](https://github.com/GeigerLaszlo/Cyber-Security-Heatmaps-Akteure-in-der-DACH-Region-2024/blob/main/Maschinen-%20und%20Anlagenbau/Maschinen-%20und%20Anlagenbau.md)
