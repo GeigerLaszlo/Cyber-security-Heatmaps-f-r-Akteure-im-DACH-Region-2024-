@@ -75,6 +75,9 @@ Das Verständnis dieser Cyber-Bedrohungsgruppen und ihrer Methoden ist für die 
 </table>
 </div>
 
+
 ## Heatmap
+
+![Heatmap](https://github.com/GeigerLaszlo/Cyber-Security-Heatmaps-Akteure-in-der-DACH-Region-2024/blob/main/Maschinen-%20und%20Anlagenbau/Maschinen-%20und%20Anlagenbau.svg)
 
 
