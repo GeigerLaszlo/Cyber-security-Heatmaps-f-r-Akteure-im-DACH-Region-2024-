@@ -20,9 +20,7 @@ APT33, auch bekannt als Elfin Team, ist ein iranischer Bedrohungsakteur, der fü
 ### Berserk Bear (Dragonfly 2.0, Crouching Yeti)
 
 Berserk Bear, auch bekannt als Dragonfly 2.0 oder Crouching Yeti, ist eine weitere russische Cyber-Spionage-Gruppe, die Energie- und Industriesektoren ins Visier nimmt. Ihre ausgeklügelten Angriffe auf ICS- und OT-Systeme machen sie zu einer der schwerwiegendsten Bedrohungen für den Maschinen- und Anlagenbau, mit dem Potenzial, kritische Infrastrukturen zu stören.
-### DarkHotel
 
-DarkHotel ist eine koreanische Cyber-Spionage-Gruppe, die für Angriffe auf hochrangige Führungskräfte und Firmennetzwerke bekannt ist. Ihre ausgeklügelten Spear-Phishing-Kampagnen und fortschrittliche Malware stellen eine erhebliche Bedrohung für Unternehmen im Maschinen- und Anlagenbau dar, da sie potenziell sensible Firmendaten und strategische Pläne kompromittieren können.
 ### APT41 (Double Dragon)
 
 APT41, auch bekannt als Double Dragon, ist eine chinesische Bedrohungsgruppe, die sowohl in Cyber-Spionage als auch in finanzmotivierte Cyberkriminalität verwickelt ist. Ihr doppelter Fokus auf den Diebstahl geistigen Eigentums und das Durchführen von Ransomware-Angriffen macht sie zu einer bemerkenswerten Bedrohung für den Maschinen- und Anlagenbau, wo sowohl industrielle Geheimnisse als auch die Betriebskontinuität von entscheidender Bedeutung sind.
@@ -61,10 +59,6 @@ Das Verständnis dieser Cyber-Bedrohungsgruppen und ihrer Methoden ist für die 
         </tr>
         <tr>
             <td>Berserk Bear (Dragonfly 2.0, Crouching Yeti)</td>
-            <td>8.5</td>
-        </tr>
-        <tr>
-            <td>DarkHotel</td>
             <td>8.5</td>
         </tr>
         <tr>
