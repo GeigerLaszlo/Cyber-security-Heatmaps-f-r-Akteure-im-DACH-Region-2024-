@@ -20,5 +20,3 @@ Das Verständnis der Verteilung und Intensität von Cyberbedrohungen ist entsche
 
 [Maschinen- und Anlagenbau](https://github.com/GeigerLaszlo/Cyber-Security-Heatmaps-Akteure-in-der-DACH-Region-2024/blob/main/Maschinen-%20und%20Anlagenbau/Maschinen-%20und%20Anlagenbau.md)
 
-[Chemikalien und Pharmazeutika](https://github.com/GeigerLaszlo/Cyber-Security-Heatmaps-Akteure-in-der-DACH-Region-2024/blob/main/Chemikalien%20und%20Pharmazeutika/Chemikalien%20und%20Pharmazeutika.md)
-
